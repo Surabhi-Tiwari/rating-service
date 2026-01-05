@@ -2,7 +2,7 @@
 //
 //public class HotelDto {
 //
-//    private String id;   // ✅ MUST match Hotel Service JSON
+//    private String id;  
 //
 //    private String name;
 //    private String location;
